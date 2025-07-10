@@ -3,5 +3,5 @@
 - 💻 Working as student developer in the Mainframe department at If Skadeforsikring
 - 🔶 Volunteering as a Backend developer for Roskilde Festival
 - 🚲 In love with fixing bikes
-- 
+  
 [Website](https://mai-sigurd.github.io/)
